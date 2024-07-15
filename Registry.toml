@@ -4,4 +4,5 @@ repo = "https://github.com/marcbasquensmunoz/geothermal_registry"
 description = "A registry for the geothermal simulation packages"
 
 [packages]
+64cfb1b1-06f0-48af-b80e-43c410dfe9e8 = { name = "FiniteLineSource", path = "F/FiniteLineSource" }
 b11dda51-a240-44f0-a43d-fea4e1309b86 = { name = "BoreholeNetworksSimulator", path = "B/BoreholeNetworksSimulator" }
