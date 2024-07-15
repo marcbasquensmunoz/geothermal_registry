@@ -1,0 +1,6 @@
+name = "Geothermal Registry"
+uuid = "8ec1b931-76ee-4e10-8f16-e2f14aa8c6a0"
+repo = "https://github.com/marcbasquensmunoz/geothermal_registry"
+description = "A registry for the geothermal simulation packages"
+
+[packages]
