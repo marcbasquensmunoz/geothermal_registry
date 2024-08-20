@@ -5,5 +5,4 @@ description = "A registry for the geothermal simulation packages"
 
 [packages]
 40984d4a-ff4b-5bb1-8527-cee9e1eb1c87 = { name = "BoreholeResponseFunctions", path = "B/BoreholeResponseFunctions" }
-64cfb1b1-06f0-48af-b80e-43c410dfe9e8 = { name = "FiniteLineSource", path = "F/FiniteLineSource" }
 b11dda51-a240-44f0-a43d-fea4e1309b86 = { name = "BoreholeNetworksSimulator", path = "B/BoreholeNetworksSimulator" }
