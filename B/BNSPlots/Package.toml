@@ -1,0 +1,4 @@
+name = "BNSPlots"
+uuid = "bee248e1-b98f-493a-9b88-5d838671920e"
+repo = "ssh://git@github.com/marcbasquensmunoz/BoreholeNetworksSimulator.jl.git"
+subdir = "BNSPlots"
