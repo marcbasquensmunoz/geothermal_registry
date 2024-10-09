@@ -1,0 +1,4 @@
+name = "BNSPythonAdapter"
+uuid = "4a85b913-23c3-4a93-8ceb-41888b61656c"
+repo = "ssh://git@github.com/marcbasquensmunoz/BoreholeNetworksSimulator.jl.git"
+subdir = "BNSPythonAdapter"
