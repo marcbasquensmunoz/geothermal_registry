@@ -2,7 +2,6 @@
 Bessels = "0e736298-9ec6-45e8-9647-e4fc86a2fe38"
 CoolProp = "e084ae63-2819-5025-826e-f8e611a84251"
 DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
-DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
 FastGaussQuadrature = "442a2c76-b920-505d-bb47-c5924d526838"
 FiniteLineSource = "64cfb1b1-06f0-48af-b80e-43c410dfe9e8"
 GeometryTypes = "4d00f742-c7ba-57c2-abde-4428a4b178cb"
@@ -16,6 +15,9 @@ RequiredInterfaces = "97f35ef4-7bc5-4ec1-a41a-dcc69c7308c6"
 SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
 SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+
+["0 - 0.1"]
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
 
 ["0 - 0.1.13"]
 BoreholeResponseFunctions = "40984d4a-ff4b-5bb1-8527-cee9e1eb1c87"
